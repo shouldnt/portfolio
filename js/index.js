@@ -83387,7 +83387,7 @@ ScrollArea.prototype.init = function () {
     this.updateScrollBar();
 
     new _typed2.default('.typed', {
-        strings: ["portfolio"],
+        strings: ["Hi I'm Khanh"],
         typeSpeed: 60
     });
 };
